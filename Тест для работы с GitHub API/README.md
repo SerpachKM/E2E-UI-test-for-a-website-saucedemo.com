@@ -14,7 +14,9 @@
    pip install -r requirements.txt
    ```
 
-3. Запустите тесты:
+3. В пишите свои данные в файл .env:
+
+4. Запустите тесты:
    ```bash
    pytest test_api.py
    ```
